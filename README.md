@@ -86,7 +86,8 @@ Microsoft Excel (.xlsm), PivotTables, calculated KPI summaries and dashboard vis
 - `Hospital_Patient_Project_Documentation.pdf`
 - `README.md`
 ## Hospital and Patient Performance Dashboard
-<img width="1748" height="908" alt="Screenshot 2026-10-24 170551" src="https://github.com/user-attachments/assets/dfc90666-ce95-4e2d-983a-87d0affa26ff" />
+<img width="1746" height="911" alt="Screenshot 2026-10-24 174741" src="https://github.com/user-attachments/assets/be12682d-7471-4c5e-b962-4ddf7d807e6a" />
+
 
 ## Portfolio summary
 Built an Excel hospital performance dashboard from 136 reporting rows, using Pivot-based summaries to explore patient volumes, ICU counts, readmissions, discharge outcomes and operational waiting-time measures across hospitals and clinical divisions. Documented data quality and privacy limitations.
