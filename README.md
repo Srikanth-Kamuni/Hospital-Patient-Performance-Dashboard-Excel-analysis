@@ -1,2 +1,0 @@
-# Hospital-Patient-Performance-Dashboard-Excel-analysis
-Developed an Excel-based Hospital Patient Performance Dashboard using 136 reporting records to analyze patient volumes, ICU activity, readmissions, discharge outcomes and operational waiting-time measures. Used PivotTables, KPI calculations and interactive visualizations to compare performance across hospitals, clinical divisions, specialties.
